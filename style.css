@@ -1,0 +1,38 @@
+/* Colors and fonts */ 
+
+body {
+background: rgb(230, 230, 230);  
+color: rgb(50, 50, 50);
+font-family: Helvetica;
+font-size: 17px 
+}
+
+h1, h2, h3 {
+font-family: courier
+}
+
+h1 {
+  color: red;
+  font-size: 30 px;
+}
+
+h2 {
+
+	color: rgb(100, 100, 100);
+	 font-size: 24px;
+	 font-weight:lighter; 
+}
+
+a {
+	text-decoration: none;
+	color: red; 
+}
+
+a:hover {
+	color: yellow;
+}
+
+
+
+
+
