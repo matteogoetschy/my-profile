@@ -16,7 +16,7 @@ h1 {
   font-weight: 900;
 }
 h2 {
-	color:#A1CDA8;
+	color:#F9CDAA;
 	 font-size: 24px;
 	 font-weight:lighter; 
 	 font-weight: 500;
@@ -77,11 +77,12 @@ a:hover {
 	color: rgb(210, 210, 210)
 }
 
-.list-inline i: hover {
+.list-inline i:hover {
 	color: black;
 }
 
 #introduction p {
-	margin-bottom: 40px
-
+	margin-bottom: 40px;
 }
+
+
